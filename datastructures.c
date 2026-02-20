@@ -219,12 +219,18 @@
 
 // }
 //LINKED LIST
-int main()
-{
-    struct node{
+struct node{
         int data;
         struct node*next;
-    };
-}
+};
+void addatend(struct node *head,int data)
+{
+  struct node *temp,*ptr;
+  temp=(struct node*)
+  
+  
+ 
+
+
 
 
